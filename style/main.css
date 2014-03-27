@@ -385,7 +385,7 @@ background: #C2C0BF;}
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/sojin12.jpg');
+    background: #fff url('../img/sojin12.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
